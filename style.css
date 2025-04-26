@@ -283,7 +283,7 @@ a {
 
 @media (max-width: 576px) {
     .hero {
-        padding-top: 120px;
+        padding-top: 150px;
     }
     .hero h1 {
         font-size: 25px;
@@ -307,4 +307,6 @@ a {
     .user-exp {
         flex-direction: column;
     }
+    .container{
+        height:100px;
 }
