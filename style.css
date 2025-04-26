@@ -4,7 +4,7 @@
     font-family: monospace;
 }
 
-.nav-bar {
+ .nav-bar {
     position: fixed;
     height: 70px;
     background-color: #1d1a1a;
@@ -12,6 +12,7 @@
     width: 100%;
     display: flex;
     box-shadow: 0px 0px 10px #000000;
+    z-index: 1000;
 }
 
 .nav-bar h2 {
